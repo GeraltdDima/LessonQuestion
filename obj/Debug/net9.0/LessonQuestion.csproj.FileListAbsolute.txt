@@ -1,0 +1,14 @@
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.GeneratedMSBuildEditorConfig.editorconfig
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.AssemblyInfoInputs.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.AssemblyInfo.cs
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.csproj.CoreCompileInputs.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/bin/Debug/net9.0/LessonQuestion
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/bin/Debug/net9.0/LessonQuestion.deps.json
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/bin/Debug/net9.0/LessonQuestion.runtimeconfig.json
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/bin/Debug/net9.0/LessonQuestion.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/bin/Debug/net9.0/LessonQuestion.pdb
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/refint/LessonQuestion.dll
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.pdb
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/LessonQuestion.genruntimeconfig.cache
+/home/dima/LocalProjects/Projects/DotnetProjects/LessonProjects/LessonQuestion/obj/Debug/net9.0/ref/LessonQuestion.dll
